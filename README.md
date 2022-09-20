@@ -4,11 +4,11 @@ Hi 👋 My name is MD ZAHEDUL ISLAM
 Data Scientist | Python NLP | Help businesses make data-driven decisions and build AI-Powered data products.
 
 
-🌍  Notes on Artificial Intelligence Himanshu Ramchandani
+🌍  Notes on Artificial Intelligence Zahid
 ✉️  You can contact me at zahidsqldba07@gmail.com
 
 
-Socials
+
 ![image](https://user-images.githubusercontent.com/107979833/191216864-3945cd56-2188-4e53-a553-39f7ac446e7a.png)
    
 
@@ -44,11 +44,11 @@ Javascript Python HTML5 React NextJs CSS3 TailwindCSS Bootstrap Material UI Redu
 😄 Image Analytics with Computer Vision, speciﬁcally weapon detection. Deep Learning powered Chatbot for IT Act India.
 
 Mentor
-Trained 5000+ Computer Science enthusiasts in Data Science, Machine Learning, Full Stack Web Development, and major project development, with technologies like ReactJS, NodeJS, Python, SQL, Tableau, Statistics, Numpy, Pandas, Matplotlib, Scikit-Learn.
+Trained 4000+ Computer Science enthusiasts in Data Science, Machine Learning, Full Stack Web Development, and major project development, with technologies like ReactJS, NodeJS, Python, SQL, Tableau, Statistics, Numpy, Pandas, Matplotlib, Scikit-Learn.
 
 Recruited, interviewed, and hired 100+ developers to keep up with partner company's growth and expansion. Hosted more than 20 in-house AI Hackathons.
 
-400+ Free sessions on Python and Machine Learning.
+500+ Free sessions on Python and Machine Learning.
 
 Built a community of 2500+ Data Scientists on Instagram by generating quality content on Artiﬁcial Intelligence and subﬁelds like machine learning, deep learning, NLP, and computer vision.
 
