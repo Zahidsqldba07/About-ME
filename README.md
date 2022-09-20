@@ -5,8 +5,7 @@ Data Scientist | Python NLP | Help businesses make data-driven decisions and bui
 
 
 🌍  Notes on Artificial Intelligence Himanshu Ramchandani
-✉️  You can contact me at connect@himanshuramchandani.co
-
+✉️  You can contact me at zahidsqldba07@gmail.com
 
 Socials
    
