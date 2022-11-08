@@ -2,9 +2,17 @@
 zahidsqldba/README.md
 
 Hi 👋 My name is MD ZAHEDUL ISLAM
-💕Data Scientist 💕 Specialist in 🐍🐍Python🐍🐍 ✅Power BI ✅Excel 💯VBA 💯SQL 💯MySQL 🔰NoSQL 🔰BIG Data 🔰Technical 🔰📥📍Support📍📥 🎯(IT)🎯I LOVE CODING 📌
+
+💕Data Scientist 💕 Specialist in 🐍🐍Python🐍🐍 
+
+✅Power BI ✅Excel 💯VBA 💯SQL 💯MySQL 
+
+🔰NoSQL 🔰BIG Data 🔰Technical 🔰
+
+📥📍Support📍📥 🎯(IT)🎯I LOVE CODING 📌
 
 🌍  Notes on Artificial Intelligence Zahid
+
 ✉️  You can contact me at zahidsqldba07@gmail.com
 
 
@@ -61,8 +69,6 @@ Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL
 Data Preprocessing: NumPy, Pandas.
 
 Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch.
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
 
 Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git.
 
