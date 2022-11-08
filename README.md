@@ -1,8 +1,8 @@
 # About-ME
-hemansnation/README.md
-Hi 👋 My name is MD ZAHEDUL ISLAM
-Data Scientist | Python NLP | Help businesses make data-driven decisions and build AI-Powered data products.
+zahidsqldba/README.md
 
+Hi 👋 My name is MD ZAHEDUL ISLAM
+💕Data Scientist 💕 Specialist in 🐍🐍Python🐍🐍 ✅Power BI ✅Excel 💯VBA 💯SQL 💯MySQL 🔰NoSQL 🔰BIG Data 🔰Technical 🔰📥📍Support📍📥 🎯(IT)🎯I LOVE CODING 📌
 
 🌍  Notes on Artificial Intelligence Zahid
 ✉️  You can contact me at zahidsqldba07@gmail.com
@@ -14,7 +14,7 @@ Data Scientist | Python NLP | Help businesses make data-driven decisions and bui
 
 Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems.
 
-• 6+ years of experience in Software Development including Analysis, Design, Development, and Testing of various applications in JavaScript and Python environments.
+• 15+ years of experience in Software Development including Analysis, Design, Development, and Testing of various applications in JavaScript and Python environments.
 
 • Experience in Functional and Object-Oriented Programming styles of Python and Javascript.
 
@@ -61,6 +61,8 @@ Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL
 Data Preprocessing: NumPy, Pandas.
 
 Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch.
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
 
 Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git.
 
