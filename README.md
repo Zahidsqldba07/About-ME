@@ -1,82 +1,41 @@
-# About-ME
-zahidsqldba/README.md
+### Hi there 👋, my name is MD ZAHEDUL ISLAM
+#### 💕Data Scientist 💕 Specialist in 🐍🐍Python🐍🐍 ✅Power BI ✅Excel 💯VBA 💯SQL 💯MySQL 🔰NoSQL 🔰BIG Data 🔰Technical 🔰📥📍Support📍📥 🎯(IT)🎯I LOVE CODING 📌📌 Easy-Approach || Well-Explained || Less coding 🐍 
+![💕Data Scientist 💕 Specialist in 🐍🐍Python🐍🐍 ✅Power BI ✅Excel 💯VBA 💯SQL 💯MySQL 🔰NoSQL 🔰BIG Data 🔰Technical 🔰📥📍Support📍📥 🎯(IT)🎯I LOVE CODING 📌📌 Easy-Approach || Well-Explained || Less coding 🐍 ](https://media-exp1.licdn.com/dms/image/D5616AQGT-cZYGfgLpw/profile-displaybackgroundimage-shrink_350_1400/0/1665929650765?e=1673481600&v=beta&t=SbNdm8MyZk1E9IDXQEt1ngtEw_VDuPp5IheDzT3ZOf8)
 
-Hi 👋 My name is MD ZAHEDUL ISLAM
+I am an Oracle Certified Professional. I have completed a master's in computer science from the University of Dhaka. I have more than 15+ years of experience as an IT Professional. I work on various projects in various fields. My background includes skills in Data science, Python, R, Power BI, DAX Formula, Excel, VBA, Macro, ML, AI, SQL, MySQL, Pl/SQL, Oracle, Access, SQL Server, Database, Normalization, ERD, Visio, lucid chart and many more.
 
-💕Data Scientist 💕 Specialist in 🐍🐍Python🐍🐍 
+I always use the most up-to-date techniques to help gain an edge over the competition. I strongly believe that I will be able to make any kind of project successful within a short period of time. Experience is the golden factor. It is my passion and I take abundant pride and satisfaction in achieving great results.
 
-✅Power BI ✅Excel 💯VBA 💯SQL 💯MySQL 
+I have done many projects, for more details you can review my portfolio, profiles, and employment history where you will find projects similar to yours. I am highly interested to work for you and very excited to assist you with any project. I am looking forward to hearing from you in the near future about any opportunity!
 
-🔰NoSQL 🔰BIG Data 🔰Technical 🔰
+Thank you in advance for your time and consideration.
 
-📥📍Support📍📥 🎯(IT)🎯I LOVE CODING 📌
+Skills: Data science, Python, R, Power BI, DAX Formula, Excel, VBA, Macro, ML, AI, SQL, MySQL, Pl/SQL, Oracle, Access, SQL Server, Database, Normalization, ERD, Visio, lucid chart and many more
 
-🌍  Notes on Artificial Intelligence Zahid
+- 🔭 I’m currently working on Python 
+- 🌱 I’m currently learning Python 
+- 👯 I’m looking to collaborate on Python 
+- 🤔 I’m looking for help with Python  
+- 💬 Ask me about IT Support 
+- 📫 How to reach me: email: zahidsqldba07@gmail.com 
+- 😄 Pronouns: Data Scientist 
+- ⚡ Fun fact: Coding 
 
-✉️  You can contact me at zahidsqldba07@gmail.com
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zahidsqldba07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/datascientist07/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/datascientist07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MDZAHED37828520)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/fH01BlnvV2dd5PhzE3KkCg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.upwork.com/freelancers/~0109fd79bab72d0c53)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.freelancer.com/u/databasedba)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>](ttps://www.peopleperhour.com/freelancer/technology-programming/md_zahedul-islam-professional-database-designer-erd-yqywqqm)  
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-![image](https://user-images.githubusercontent.com/107979833/191216864-3945cd56-2188-4e53-a553-39f7ac446e7a.png)
-   
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zahidsqldba07)](https://github.com/ryo-ma/github-profile-trophy)
 
-Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahidsqldba07)](https://github.com/anuraghazra/github-readme-stats)
 
-• 15+ years of experience in Software Development including Analysis, Design, Development, and Testing of various applications in JavaScript and Python environments.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahidsqldba07&show_icons=true&count_private=true)  
 
-• Experience in Functional and Object-Oriented Programming styles of Python and Javascript.
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zahidsqldba07)  
 
-• Got good exposure to UI UX design using Adobe Photoshop, and Adobe Illustrator, Performed slicing and dicing to convert a Photoshop design into a fully functional HTML, CSS and JS enabled website.
+![GitHub metrics](https://metrics.lecoq.io/Zahidsqldba07)  
 
-• Expertise in Full Web Stack libraries like ReactJS, NodeJS, ExpressJS, Django.
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Zahidsqldba07)  
 
-• In-depth understanding of Python and JavaScript.
-
-• Knowledge of Service Oriented Architecture (SOA).
-
-• Worked for industry clients and have experience working with healthcare clients, artificial intelligence companies, finance clients, and the education sector.
-
-Skills
-Javascript Python HTML5 React NextJs CSS3 TailwindCSS Bootstrap Material UI Redux Webpack Babel NodeJS Express GraphQL MongoDB Flask Django Photoshop Illustrator XD Figma
-
-⚡ Understanding requirements of the institution and consulting for the projects, academic, research papers, tools recommendations to enhance the performance with Artiﬁcial Intelligence and Machine Learning.
-
-⚡ Developed data pipeline and ﬂow with DevOps on AWS, and GCP on the projects for the team of engineers.
-
-⚡ Monitoring and generating Analytical reports on the institution data for admission and academics. Conducted more than 200 webinars on Data Science and Artiﬁcial Intelligence.
-
-😄 Worked with data, applying statistical models, designing the ﬂow of the data product, and monitoring the end-to-end products. 😄 Worked on different projects in multiple domains like Finance, Education, Healthcare, Public Sector.
-
-😄 Solved complex problems with Natural Language Processing for written test of IAS exam. Advertising Analytics using machine learning models.
-
-😄 Image Analytics with Computer Vision, speciﬁcally weapon detection. Deep Learning powered Chatbot for IT Act India.
-
-Mentor
-Trained 4000+ Computer Science enthusiasts in Data Science, Machine Learning, Full Stack Web Development, and major project development, with technologies like ReactJS, NodeJS, Python, SQL, Tableau, Statistics, Numpy, Pandas, Matplotlib, Scikit-Learn.
-
-Recruited, interviewed, and hired 100+ developers to keep up with partner company's growth and expansion. Hosted more than 20 in-house AI Hackathons.
-
-500+ Free sessions on Python and Machine Learning.
-
-Built a community of 2500+ Data Scientists on Instagram by generating quality content on Artiﬁcial Intelligence and subﬁelds like machine learning, deep learning, NLP, and computer vision.
-
-Research Thesis
-Knowledge tracing, is the personation of student knowledge over time with advanced machine learning algorithms. The model builds on more than 13 Crore interactions of more than 7 lakh students.
-
-Tools | Frameworks
-Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL
-
-Data Preprocessing: NumPy, Pandas.
-
-Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch.
-
-Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git.
-
-Data Visualization: Matplotlib, Tableau, Seaborn.
-
-Cloud Services: AWS, Google Colaboratory, Kaggle kernel.
-
-Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
-
-Badges
-My GitHub Stats
+![Profile views](https://gpvc.arturio.dev/Zahidsqldba07)  
